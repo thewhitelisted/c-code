@@ -14,7 +14,7 @@ int main()
     char f = 100;          // 1 byte, (-128 to +127) %d (number) or %c (uses ASCII table)
     unsigned char g = 255; // 1 byte (0 to 255) %d (number) or %c (uses ASCII table) UNSIGNED = ONLY POSITIVE
 
-    // NO NEED TO PUT INT, YOU CAN JUSFT PUT SHORT
+    // NO NEED TO PUT INT, YOU CAN JUST PUT SHORT
     short int h = 32767;          // 2 bytes (-32,768 to +32,768) %d
     unsigned short int i = 65535; // 2 bytes (0 to +65,536) %d
 
